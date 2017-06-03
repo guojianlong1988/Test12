@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
         Log.i("1","1");
         Log.i("2","2");
         Log.i("3","3");
+        Log.i("3test1_log","1");
     }
 
 
