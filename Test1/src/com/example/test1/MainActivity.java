@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         Log.i("1","1");
         Log.i("2","2");
+        Log.i("3","3");
     }
 
 
